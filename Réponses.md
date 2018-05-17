@@ -10,7 +10,7 @@
 * NC_000018.9:g.52895531T>C => NM_001243236.1:c.1449A>G (TCF4)
 * NC_000018.9:g.52999284delG => NM_001243232.1:c.336+18306delC (TCF4) (LOC1019272)
 * NC_000018.9:g. 53331929C>A => n'existe pas car intron
-* On remarque que c'est inversé par rapport au génome de référence. Donc le gène est présent sur le brin anti-sens (3'5').
+On remarque que c'est inversé par rapport au génome de référence. Donc le gène est présent sur le brin anti-sens (3'5').
 ### Q4
 * La fréquence du variant NC_000018.9:g.52895531T>C dans la population générale est 0.3750
 * La fréquence du variant NC_000018.9:g.52999284delG dans la population générale est 0.02478
@@ -76,3 +76,5 @@
 DOI:10.1038/gim.2015.30
 ### Q21
 <img align="left" width="1000" height="800" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/bin/nihms697486f1.jpg">
+### Q22
+...
