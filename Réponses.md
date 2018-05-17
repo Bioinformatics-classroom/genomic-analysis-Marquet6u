@@ -26,7 +26,30 @@ Le variant NC_000018.9:g.53331929C>A semble intéresssant car on recherche une m
 
 ## Exercice 2
 ### Q1
-* item1
-* item2
-* item3
+* le gène concerné est le gène SHOX, présent sur le chromosome X (Xp22.33).
 ### Q2
+* Langer mesomelic dysplasia (recessif)
+* Leri-Weill dyschondrosteosis (dominant)
+* Short stature, idiopathic familial 
+### Q3
+La petite taille présente dans le Syndrome de turner (Absence du chromosome X) est due au gène SHOX (présent sur le chromosome X)
+### Q4
+La notation HGVS de cette variation au niveau génomique NC_000023.10:g.595474G>C
+### Q5
+NC : génomique
+000023.10 : chromosme X version 10
+:g. : génomique
+595474G>C : position 595474 avec substitution de G en C
+### Q6
+la notation protéique est NM_000451.3(SHOX_i001):p.(Glu133Asp) : la Glu en position 133 est remplacé par un Asp, ce qui change possiblement la protéine.
+### Q7
+NM_000451 : numéro du transcrit
+.3 :sa version
+(SHOX_i001) : gène affecté
+:p. : protéine de référence
+(Glu133Asp) : la Glu en position 133 est remplacé par un Asp
+### Q8
+C'est une variation faux-sens remplaçant un Acide Glutamique (GAG) par un acide Aspartique (GAC) sans changement du cadre de lecture.
+### Q9
+(http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669218369_rVA5gca7hxTsGSkju3s03L2u4czg)
+### Q10
