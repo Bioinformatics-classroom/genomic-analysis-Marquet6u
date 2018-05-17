@@ -2,7 +2,7 @@
 * Sébastien Marquet 
 ## Exercice 1
 ### Q1
-* NC* : variation génomique GRCH37
+*NC* : variation génomique GRCH37
 ### Q2
 * NC_000018.9:g.52895514_52895515delGA
 * Chromosome 18
