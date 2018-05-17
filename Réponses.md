@@ -43,13 +43,28 @@ NC : génomique
 ### Q6
 la notation protéique est NM_000451.3(SHOX_i001):p.(Glu133Asp) : la Glu en position 133 est remplacé par un Asp, ce qui change possiblement la protéine.
 ### Q7
-NM_000451 : numéro du transcrit
+NM_000451 : (mRNA) numéro du transcrit
 .3 :sa version
 (SHOX_i001) : gène affecté
-:p. : protéine de référence
+:p. : notation protéique
 (Glu133Asp) : la Glu en position 133 est remplacé par un Asp
 ### Q8
 C'est une variation faux-sens remplaçant un Acide Glutamique (GAG) par un acide Aspartique (GAC) sans changement du cadre de lecture.
 ### Q9
-(http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669218369_rVA5gca7hxTsGSkju3s03L2u4czg)
+[NM_000451.3:c.399G>C in UCSC] (http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669218369_rVA5gca7hxTsGSkju3s03L2u4czg)
 ### Q10
+Le gène est sur le brin sens.
+### Q11
+Il y a 6 exons
+### Q12
+Il est dans l'exon 3 sur 6
+### Q13
+Le variant se trouve dans une région relativement peu conservée.
+### Q14
+Le variant se trouve dans Homeobox domain (pfam00046)
+### Q15
+(https://www.ncbi.nlm.nih.gov/pubmed/28629824)
+(https://www.ncbi.nlm.nih.gov/pubmed/27814343)
+### Q16
+J'ai analysé
+### Q17
